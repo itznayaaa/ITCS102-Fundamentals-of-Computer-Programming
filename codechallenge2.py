@@ -1,6 +1,8 @@
-money = 13957
-
-print("Money to deposit -->", money)
+money = eval(input("Enter Money to DEPOSIT ---->>> ")) #int(), eval(), type() 
+#print(type(money))
+print("========================= PH BANK DENOMINATION ========================== ")
+print("MONEY TO DEPOSIT ------------> ", money, "php")
+ 
 
 #computation here
 
