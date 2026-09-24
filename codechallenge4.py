@@ -1,4 +1,3 @@
-#activity13
 
 username = input("Username: ")
 password = input("Password: ")
