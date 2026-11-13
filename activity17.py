@@ -6,13 +6,13 @@ book3 = "hamlet"
 book4 = "pride & prejudice"
 book5 = "beloved"
 
-books = []
 books = ["narnia", "atonement", "hamlet"]
 
-books.append("narnia")
-books.append("atonement")
-books.append("hamlet")
+print(books)
 
-books.insert(1, "grapes")
+books.append("pride & prejudice")
+books.append("beloved")
 
-print(books[-5:1])
+print(books)
+
+ 
